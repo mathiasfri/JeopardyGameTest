@@ -1,0 +1,14 @@
+C:\Users\mathi\source\repos\EksamensprojektTest\bin\Debug\EksamensprojektTest.exe.config
+C:\Users\mathi\source\repos\EksamensprojektTest\bin\Debug\EksamensprojektTest.exe
+C:\Users\mathi\source\repos\EksamensprojektTest\bin\Debug\EksamensprojektTest.pdb
+C:\Users\mathi\source\repos\EksamensprojektTest\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\mathi\source\repos\EksamensprojektTest\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\mathi\source\repos\EksamensprojektTest\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\mathi\source\repos\EksamensprojektTest\obj\Debug\EksamensprojektTest.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\EksamensprojektTest\obj\Debug\EksamensprojektTest.Form1.resources
+C:\Users\mathi\source\repos\EksamensprojektTest\obj\Debug\EksamensprojektTest.Properties.Resources.resources
+C:\Users\mathi\source\repos\EksamensprojektTest\obj\Debug\EksamensprojektTest.csproj.GenerateResource.cache
+C:\Users\mathi\source\repos\EksamensprojektTest\obj\Debug\EksamensprojektTest.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\EksamensprojektTest\obj\Debug\EksamensprojektTest.csproj.CopyComplete
+C:\Users\mathi\source\repos\EksamensprojektTest\obj\Debug\EksamensprojektTest.exe
+C:\Users\mathi\source\repos\EksamensprojektTest\obj\Debug\EksamensprojektTest.pdb
